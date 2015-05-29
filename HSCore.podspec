@@ -11,4 +11,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency 'JLRoutes', '~> 1.5'
+  s.dependency 'NSString-UrlEncode'
 end
